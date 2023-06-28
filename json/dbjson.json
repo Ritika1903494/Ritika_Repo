@@ -1,0 +1,26 @@
+{
+"Companyname":"Bebo technologies",
+"Employee":[
+    {
+    "Id":101,
+    "Name":"ritika thakur",
+    "Email":"ritika@gmail.com",
+    "Role":"Web developer",
+    "Password":"rtika@123"
+   },
+    {
+    "Id":102,
+    "Name":"Disha thakur",
+    "Email":"Disha@gmail.com",
+    "Role":"Java developer",
+    "Password":"Disha@123"
+   },
+   {
+    "Id":103,
+    "Name":"Nargisdeep kaur",
+    "Email":"Nargis@gmail.com",
+    "Role":"Java developer",
+    "Password":"Nargis@123"
+  }
+    ]
+}
